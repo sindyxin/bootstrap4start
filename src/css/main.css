@@ -126,7 +126,12 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 95%);
 
 }
-
+#person{
+  width: 250px;
+  height: 250px;
+  margin-bottom: 40px;
+  border-radius: 50%;
+}
 
 .item-1 {
   background: linear-gradient(to right, rgba(42, 145, 52, 0.9), rgba(42, 145, 52, 0.5)), url(img/banner-1.jpeg)center/cover fixed no-repeat;
